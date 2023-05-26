@@ -64,4 +64,5 @@ export OPENAI_API_KEY =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
 export PINECONE_API_KEY = 6757054f-e22e-4481-83a3-84b5ed0b0db8
 export PINECONE_ENVIRONMENT = us-east1-gcp
 export PINECONE_INDEX=pdf-test-data
+
 """
