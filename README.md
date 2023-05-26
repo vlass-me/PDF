@@ -1,5 +1,20 @@
 # PDF
 
+### key.png
+여기에 논리도 올라와 있고 
+
+### embedding.ipynb
+여기에 퀴즈 요약 등 프롬프트 만들어놓음
+
+
+
+
+
+
+
+
+
+
 Navigate to the app directory:
 
 ```
