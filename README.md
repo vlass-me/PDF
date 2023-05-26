@@ -2,13 +2,17 @@
 
 ### key.png
 여기에 논리도 올라와 있고 
+<img width="556" alt="key" src="https://github.com/vlass-me/PDF/assets/104364766/c3ff1e8f-fe43-4526-8dd3-8159fcd2e6e4">
 
 ### embedding.ipynb
 여기에 퀴즈 요약 등 프롬프트 만들어놓음
 
+<img width="1092" alt="voice_summary_indexing" src="https://github.com/vlass-me/PDF/assets/104364766/2469b505-0505-4eec-a1a1-4bffa6832a8e">
+
+<img width="851" alt="quiz" src="https://github.com/vlass-me/PDF/assets/104364766/235cb5ca-6665-4345-8e06-4c75de84f36e">
 
 
-
+<img width="675" alt="pdf_extract" src="https://github.com/vlass-me/PDF/assets/104364766/2540254f-4854-46da-a8f9-41382f3bbe93">
 
 
 
